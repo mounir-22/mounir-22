@@ -4,8 +4,8 @@
 
 # Mounir Arabi
 
-**Data Science & Machine Learning Explorer**
-*Mathematics • Data Science • Machine Learning*
+**Python App Deployment & RAG Specialist** 
+*RAG • Devops • SaaS development*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-arabi-342b6b376/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tlanko)
@@ -16,9 +16,8 @@
 </div>
 
 
-# Hi, I'm Mounir 
 
-**Python App Deployment & RAG Specialist**  
+
 I work at the intersection of Python backend deployment and AI systems — one of the few developers who both builds production RAG pipelines and deploys them reliably on European infrastructure.
 
 ---
