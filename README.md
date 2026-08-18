@@ -1,4 +1,4 @@
-# Hi, I'm Mounir 👋
+# Hi, I'm Mounir 
 
 **Python App Deployment & RAG Specialist**  
 I work at the intersection of Python backend deployment and AI systems — one of the few developers who both builds production RAG pipelines and deploys them reliably on European infrastructure.
@@ -57,7 +57,7 @@ Complete production server setup for a multi-domain African SaaS platform — Cy
 🌐 Portfolio: [mounirarabi.dev](https://mounirarabi.dev)  
 💼 Fiverr: [fiverr.com/mounirarabi](https://fiverr.com/mounirarabi)  
 🧠 Malt: [malt.fr/profile/mounirarabi](https://malt.fr/profile/mounirarabi)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-arabi-342b6b376/)
 ---
 
 ## Currently Available For
