@@ -1,10 +1,7 @@
-<div align="center">
-
-<img src="1753473676254.png" width="150" height="150" style="border-radius: 50%;" alt="Mounir Arabi"/>
-
 # Mounir Arabi
 
-**Python App Deployment & RAG Specialist** 
+**Python App Deployment & RAG Specialist**
+
 *RAG • Devops • SaaS development*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-arabi-342b6b376/)
