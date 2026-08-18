@@ -11,7 +11,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tlanko)
 [![Website](https://img.shields.io/badge/Website-Visit%20Site-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mounirarabi.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mounirarabi22@gmail.com)
-[![Malt](https://img.shields.io/badge/Malt-Contact%20Me-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/YOUR-MALT-USERNAME)
+[![Malt](https://img.shields.io/badge/Malt-Contact%20Me-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/mounirarabi)
 
 </div>
 
